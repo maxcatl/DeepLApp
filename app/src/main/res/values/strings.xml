@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name" translatable="false">DeepL</string>
+    <string-array name="langues_originales_supportees">
+        <item>Détectée automatiquement</item>
+        <item>Allemand</item>
+        <item>Anglais</item>
+        <item>Espagnol</item>
+        <item>Français</item>
+    </string-array>
+
+    <string-array name="langues_originales_abbr">
+        <item>none</item>
+        <item>de</item>
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+    </string-array>
+
+
+    <string-array name="langues_traduites_supportees">
+        <item>Allemand</item>
+        <item>Anglais</item>
+        <item>Espagnol</item>
+        <item>Français</item>
+    </string-array>
+
+    <string-array name="langues_traduites_abbr">
+        <item>de</item>
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+    </string-array>
+
+
+    <string name="editTextOriginal_hint">Écrivez ou collez votre texte ici.</string>
+    <string name="textOriginal_text">Texte originale en : </string>
+    <string name="textTranslate_text">traduction en : </string>
+    <string name="button_translate_text">Traduire</string>
+    <string name="buttonCancel_text">Annuler</string>
+    <string name="logo_deepl_description">Logo DeepL</string>
+    <string name="logo_deepl_traduction">Traduction</string>
+    <string name="ok">OK</string>
+</resources>
